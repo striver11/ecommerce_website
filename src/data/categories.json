@@ -1,0 +1,157 @@
+{
+  "categories": [
+   
+    {
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "subsubcategories": [
+            { "name": "Android" },
+            { "name": "iOS" }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "subsubcategories": [
+            { "name": "Windows" },
+            { "name": "Mac" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fashion",
+      "subcategories": [
+        {
+          "name": "Men",
+          "subsubcategories": [
+            { "name": "shirt" },
+            { "name": "trousers" }
+          ]
+        },
+        {
+          "name": "Women",
+          "subsubcategories": [
+            { "name": "sarees" },
+            { "name": "kurta" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "subsubcategories": [
+            { "name": "Android" },
+            { "name": "iOS" }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "subsubcategories": [
+            { "name": "Windows" },
+            { "name": "Mac" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "subsubcategories": [
+            { "name": "Android" },
+            { "name": "iOS" }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "subsubcategories": [
+            { "name": "Windows" },
+            { "name": "Mac" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "subsubcategories": [
+            { "name": "Android" },
+            { "name": "iOS" }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "subsubcategories": [
+            { "name": "Windows" },
+            { "name": "Mac" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "subsubcategories": [
+            { "name": "Android" },
+            { "name": "iOS" }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "subsubcategories": [
+            { "name": "Windows" },
+            { "name": "Mac" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "subsubcategories": [
+            { "name": "Android" },
+            { "name": "iOS" }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "subsubcategories": [
+            { "name": "Windows" },
+            { "name": "Mac" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Smartphones",
+          "subsubcategories": [
+            { "name": "Android" },
+            { "name": "iOS" }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "subsubcategories": [
+            { "name": "Windows" },
+            { "name": "Mac" }
+          ]
+        }
+      ]
+    }
+  ]
+}

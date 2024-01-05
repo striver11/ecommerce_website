@@ -1,0 +1,19 @@
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10px;
+  padding: 10px;
+}
+
+.product-card {
+  grid-column: span 1;
+  border: 1px solid #ddd;
+  padding: 20px;
+  text-align: center;
+  background-image: 50px;
+}
+
+.product-card img {
+  width: 100%;  /* Adjust this value as needed */
+  height: auto; /* This will maintain the aspect ratio of the image */
+}

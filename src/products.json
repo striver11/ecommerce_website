@@ -1,0 +1,104 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Samsung s23 ultra Mobiles",
+        "price": "$100",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=70"
+      },
+      {
+        "id": "2",
+        "name": "Samsung Galaxy Z flip Mobile",
+        "price": "$400",
+        "image": "https://rukminim2.flixcart.com/image/416/416/ksnjp8w0/mobile/w/u/8/galaxy-z-flip3-5g-sm-f711bzeeinu-samsung-original-imag662adrayy6cg.jpeg?q=70"
+      },
+      {
+        "id": "3",
+        "name": "Apple iphone 14 Mobile",
+        "price": "$300",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg?q=70"
+      },
+      {
+        "id": "4",
+        "name": "Apple iphone 15 Mobile",
+        "price": "$350",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70"
+      },
+      {
+        "id": "5",
+        "name": "Apple iphone 15 pro max Mobile",
+        "price": "$500",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/m/h/c/-original-imagtc3h9h6kpbkc.jpeg?q=70"
+      },
+      {
+        "id": "6",
+        "name": "Apple iphone 14 pro max Mobile",
+        "price": "$400",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/k/s/t/-original-imaghxengzjc2djt.jpeg?q=70"
+      },
+      {
+        "id": "7",
+        "name": "Apple watch Mobile",
+        "price": "$100",
+        "image": "https://rukm  inim2.flixcart.com/image/416/416/xif0q/smartwatch/c/1/i/-original-imaghxg9znekcjhh.jpeg?q=70"
+      },
+      {
+        "id": "8",
+        "name": "Samsung Watch 4 ",
+        "price": "$100",
+        "image": "https://rukminim2.flixcart.com/image/416/416/kst9gnk0/smartwatch/j/k/9/1-4-android-sm-r875fzgainu-samsung-yes-original-imag6axcsyt36y8v.jpeg?q=70"
+      },
+      {
+        "id": "9",
+        "name": "Sarees",
+        "price": "$5",
+        "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/n/l/a/free-37995-mirchi-fashion-unstitched-original-imagu6yehdj6rxeq.jpeg?q=70"
+      },
+      {
+        "id": "10",
+        "name": "Shirts",
+        "price": "$10",
+        "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/m/z/2/l-p-s-green-shirts-l-soundryafabric-original-imagkfkugxs2fghn.jpeg?q=70"
+      },
+      {
+        "id": "11",
+        "name": "watches",
+        "price": "$20",
+        "image": "https://rukminim2.flixcart.com/image/832/832/xif0q…b-invicta-men-original-imagtkffz2crazhm.jpeg?q=70"
+      },
+      {
+        "id": "12",
+        "name": "Rolex watch",
+        "price": "$",
+        "image": "https://rukminim2.flixcart.com/image/832/832/xif0q…b-invicta-men-original-imagthcjr6g7ebmh.jpeg?q=70"
+      },
+      {
+        "id": "13",
+        "name": "Puma shoes",
+        "price": "$5",
+        "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/3/g/8/-original-imaghvbanvdgzy8g.jpeg?q=70"
+      },
+      {
+        "id": "14",
+        "name": "adidas shoes",
+        "price": "$10",
+        "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/f/p/j/-original-imagg6r42kecwp4r.jpeg?q=70"
+        
+      },
+      {
+        "id": "15",
+        "name": "HP laptops",
+        "price": "$100",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q…mputer/z/e/p/-original-imagwy8euzem26dw.jpeg?q=70"
+      },
+      {
+        "id": "16",
+        "name": "DELL laptops",
+        "price": "$200",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q…mputer/j/x/1/-original-imaguekpefufryhv.jpeg?q=70"
+      }
+
+     
+    ]
+  }
+  

@@ -1,0 +1,64 @@
+.expandable-dropdown {
+  position: relative;
+  display: inline-block;
+  margin: 10px 100px 0px 10px;
+  cursor: pointer;
+}
+
+.expandable-dropdown span {
+  font-weight: bold;
+  color: #333;
+}
+
+.subcategories {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 10;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  padding: 5px;
+  min-width: 80px;
+  list-style: none;
+  display: none;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+  transform: translateY(10px);
+}
+
+.subcategories:hover {
+  background-color: #f0f0f0; /* Change the background color on hover */
+}
+
+.subsubcategories {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  padding: 5px;
+  z-index: 10;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  min-width: 80px;
+  list-style: none;
+  display: none;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+  transform: translateX(10px);
+}
+
+.subsubcategories:hover {
+  background-color: #e0e0e0; /* Change the background color on hover */
+}
+
+.expandable-dropdown:hover .subcategories,
+.subcategories:hover .subsubcategories {
+  display: block;
+  opacity: 1;
+  pointer-events: auto;
+  transform: translate(0, 0);
+}
+.subsubcategories:hover {
+  background-color: #e0e0e0; /* Change the background color on hover */
+}

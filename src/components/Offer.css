@@ -1,0 +1,20 @@
+.offer-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 10px;
+  }
+  
+  .offer-card {
+    grid-column: span 1;
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    background-image: 50px;
+  }
+  
+  .offer-card img {
+    width: 100%;  /* Adjust this value as needed */
+    height: auto; /* This will maintain the aspect ratio of the image */
+  }
+  
